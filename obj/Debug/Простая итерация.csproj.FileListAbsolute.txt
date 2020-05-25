@@ -1,0 +1,10 @@
+C:\Users\Эмиль\source\repos\Простая итерация\obj\Debug\Простая итерация.csprojAssemblyReference.cache
+C:\Users\Эмиль\source\repos\Простая итерация\obj\Debug\Простая_итерация.Form1.resources
+C:\Users\Эмиль\source\repos\Простая итерация\obj\Debug\Простая_итерация.Properties.Resources.resources
+C:\Users\Эмиль\source\repos\Простая итерация\obj\Debug\Простая итерация.csproj.GenerateResource.cache
+C:\Users\Эмиль\source\repos\Простая итерация\obj\Debug\Простая итерация.csproj.CoreCompileInputs.cache
+C:\Users\Эмиль\source\repos\Простая итерация\bin\Debug\Простая итерация.exe.config
+C:\Users\Эмиль\source\repos\Простая итерация\bin\Debug\Простая итерация.exe
+C:\Users\Эмиль\source\repos\Простая итерация\bin\Debug\Простая итерация.pdb
+C:\Users\Эмиль\source\repos\Простая итерация\obj\Debug\Простая итерация.exe
+C:\Users\Эмиль\source\repos\Простая итерация\obj\Debug\Простая итерация.pdb
